@@ -1,0 +1,11 @@
+Day,Cups_Sold,Temperature_F,Promo_Type,Cups_Sold_Cleaned
+Mon,120.0,72.0,,120.0
+Tue,135.0,68.0,Discount,135.0
+Wed,,75.0,,
+Thu,140.0,71.0,BOGO,140.0
+Fri,155.0,85.0,Discount,155.0
+Sat,950.0,42.0,,160.0
+Sun,20.0,70.0,,112.0
+Mon2,130.0,,BOGO,130.0
+Tue2,142.0,69.0,,142.0
+Wed2,138.0,73.0,Discount,138.0
